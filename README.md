@@ -7,10 +7,10 @@ This tutorial achieves the following goals:
 - create new accounts and accounts from seed phrase
 - create payment transactions between them
 - search for transactions using:
---	date ranges
---	transaction ID
---	accounts involved
---3	note field
+-	date ranges
+-	transaction ID
+-	accounts involved
+-	note field
 Gitcoin bounty: https://gitcoin.co/issue/algorandfoundation/grow-algorand/135/100027549
 Country: India
 Wallet Address: GX2TD2AZBBBZ3MZ2K3GX4U6KQMDGLC5WI6ZSQYSKXA7EJCOMD4SPMSFQNA
