@@ -648,4 +648,5 @@ Finally the transactions from this search function is returned which is awaited 
 ```
 
 # 9. Final Codebase
-Here.
+
+The final code is avalable on [GitHub](https://github.com/NoelJacob/algorand-svelte). Check it out. Make issues or pull request if it needs it.
