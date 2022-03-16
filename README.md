@@ -1,3 +1,20 @@
+Here we’ll set up Algosdk for Sveltekit which uses Vite under the hood for running development server and packaging for browser.
+
+The configuration is described in Step 2 can be used for all others on Vite like Vue, vite-react, or the new Solidjs.
+
+This tutorial achieves the following goals:
+
+create new accounts and accounts from seed phrase
+create payment transactions between them
+search for transactions using:
+	date ranges
+	transaction ID
+	accounts involved
+	note field
+Gitcoin bounty: https://gitcoin.co/issue/algorandfoundation/grow-algorand/135/100027549
+Country: India
+Wallet Address: GX2TD2AZBBBZ3MZ2K3GX4U6KQMDGLC5WI6ZSQYSKXA7EJCOMD4SPMSFQNA
+
 # 1. Initialize Svelte 🎉
 
 Run the `npm init svelte@next` command and use the options given below it when prompted.
